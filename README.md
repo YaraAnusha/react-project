@@ -14,6 +14,8 @@ npm install
 npm start
 **deploy to git**
 by using git commands
-git clone https://github.com/yourusername/calendar-communication-tracking.git
+git clone :- https://github.com/YaraAnusha/react-project/tree/main/src
+
+
 
 
